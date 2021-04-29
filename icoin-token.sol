@@ -4,7 +4,7 @@ pragma solidity ^0.4.24;
 //
 // Symbol        : ICOIN
 // Name          : InnovFin Coin
-// Total supply  : {{Total Supply}}
+// Total supply  : 100000
 // Decimals      : 2
 // Owner Account : 0x8e4eE32f564F74a69C99B169907D19fF9491952c
 //
